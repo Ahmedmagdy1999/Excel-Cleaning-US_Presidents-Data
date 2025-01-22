@@ -10,7 +10,7 @@
 
 ### Project Overview
 
-I used this data from GitHub to practice my skills in data cleaning with Excel 
+I used this dataset from YouTube to practice my skills in data cleaning with Excel and this is my first data cleaning in Excel
 
 
 
