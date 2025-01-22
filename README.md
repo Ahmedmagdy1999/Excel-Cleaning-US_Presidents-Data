@@ -16,7 +16,7 @@ I used this dataset from YouTube to practice my skills in data cleaning with Exc
 
 ### Data Source
 
-US_Presidents Data Cleaning: The primary dataset used for cleaning is US_Presidents .xlsx, containing information about 
+US_Presidents Data Cleaning: The primary dataset used for cleaning is US_Presidents .xlsx, containing information about USA presidents
 
 
 ### Tools
